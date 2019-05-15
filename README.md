@@ -1,5 +1,3 @@
 # Angel Camilo Cabezas Varela
 
-Fortfolio with some of my personal projects. Here you will find different projects that I made up along my life.
-
-## Unity3D
+Fortfolio with some of my personal projects. I invite you to see de Wiki to know more about the projects. 
