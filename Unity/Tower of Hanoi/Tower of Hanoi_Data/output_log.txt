@@ -1,0 +1,91 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+    Driver:   24.21.13.9836
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.TestRunner.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.TestRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\nunit.framework.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\nunit.framework.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Parse.Unity.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Parse.Unity.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.882097 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 24830 -> priority: 1 
+  Thread -> id: 248a8 -> priority: 1 
+  Thread -> id: 24850 -> priority: 1 
+  Thread -> id: 24b10 -> priority: 1 
+KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.String,System.Object].get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Parse.ParseObject.get_Item (System.String key) [0x00000] in <filename unknown>:0 
+  at Parse.ParseObject.Get[Int32] (System.String key) [0x00000] in <filename unknown>:0 
+  at ParseModel.parseUserGetRulesVideoViewed () [0x00000] in <filename unknown>:0 
+  at MainModel.loadUser (System.String pUsername) [0x00000] in <filename unknown>:0 
+  at LoginController+<loginCheckEventRoutine>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 740M (ID=0x1292)
+    Vendor:   NVIDIA
+    VRAM:     2009 MB
+    Driver:   24.21.13.9836
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.TestRunner.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\UnityEngine.TestRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\nunit.framework.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\nunit.framework.dll into Unity Child Domain
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Parse.Unity.dll (this message is harmless)
+Loading C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\Parse.Unity.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\angelcamilo\Downloads\Tower of Hanoi\Tower of Hanoi_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.348387 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 222ec -> priority: 1 
+  Thread -> id: 24a58 -> priority: 1 
+  Thread -> id: 246a4 -> priority: 1 
+  Thread -> id: 20234 -> priority: 1 
